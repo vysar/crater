@@ -29,7 +29,7 @@ return [
     * Minimum sqlite version.
     */
 
-    'min_sqlite_version' => '3.24.0',
+    'min_sqlite_version' => '3.00.0',
 
     /*
     * List of languages supported by Crater.

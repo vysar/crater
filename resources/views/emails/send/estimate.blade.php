@@ -28,7 +28,7 @@
     {{-- Footer --}}
     @slot('footer')
         @component('mail::footer')
-            Powered by <a class="footer-link" href="https://craterapp.com">Crater</a>
+            Powered by <a class="footer-link" href="https://vijayasarathi.com">Vijaya Sarathi</a>
         @endcomponent
     @endslot
 @endcomponent
